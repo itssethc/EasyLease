@@ -1,7 +1,7 @@
 # 🏠 EasyLease — Property & Lease Management System
 
 **EasyLease** is a small-scale C# console application that demonstrates core software engineering and database management principles for a property rental business.  
-It is designed as a showcase project built with **C#**, **Entity Framework Core**, and **SQLite** — demonstrating clean architecture, ORM relationships, and scalable database design.
+It is designed as a database college course final project built with **C#**, **Entity Framework Core**, and **SQLite** — demonstrating clean architecture, ORM relationships, and scalable database design.
 
 ---
 
