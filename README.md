@@ -1,3 +1,5 @@
+[alt text](https://github.com/itssethc/EasyLease/master/logo.png "Logo Title Text 1")
+
 #  EasyLease — Property & Lease Management System
 
 **EasyLease** is a small-scale C# console application that demonstrates core software engineering and database management principles for a property rental business.  
