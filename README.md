@@ -1,4 +1,4 @@
-[alt text](https://github.com/itssethc/EasyLease/master/logo.png "Logo Title Text 1")
+[alt text]([https://github.com/itssethc/EasyLease/master/logo.png](https://github.com/itssethc/EasyLease/blob/master/logo.png) "Logo Title Text 1")
 
 #  EasyLease — Property & Lease Management System
 
